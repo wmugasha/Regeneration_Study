@@ -1,5 +1,7 @@
 ##R script to calculate biomass and species richness
-rm(list=ls())
+Article title: Agricultural fallows are the main driver of natural forest regeneration in Tanzania
+Authors: 
+
 
 setwd("c:/RData/remnants")
 
